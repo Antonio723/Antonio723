@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Antonio, tenho 17 anos,e Atualmente estou estudando desenvolvimento de sistemas  pelo SENAI, na unidade do munici de Jandira SP.
+Meu nome é Antonio, tenho 17 anos,e Atualmente estou estudando desenvolvimento de sistemas  pelo SENAI, na unidade da cidade de Jandira SP.
 
 Eu comecei a estudar programação de computadores a partir de um link que meu colega  da escola .E desde então me esforcei o máximo para aprender cada vez mais.
